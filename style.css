@@ -68,7 +68,7 @@ a:focus-visible { outline: 3px solid var(--sea); outline-offset: 3px; border-rad
 
 .top-link { color: var(--ink); font-weight: 500; padding: 0.6rem 0; }
 
-.intro { padding-block: clamp(3rem, 12vw, 8rem) clamp(2.5rem, 8vw, 5rem); }
+.intro { padding-block: clamp(3rem, 12vw, 8rem) clamp(1.5rem, 4vw, 2.5rem); }
 
 h1 {
   margin: 0;
