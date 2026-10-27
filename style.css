@@ -12,17 +12,19 @@
   --sea: #2c6a6e;
   --rule: #c3d0cc;
   --panel: #f5f8f7;
+  --glow: #f7fbfa;
   color-scheme: light dark;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #131b1f;
-    --ink: #e4ebe9;
-    --muted: #a3b3b1;
-    --sea: #82bdb9;
-    --rule: #2e3c41;
-    --panel: #1a2428;
+    --bg: #0d2a33;
+    --ink: #eef6f4;
+    --muted: #b4cdca;
+    --sea: #6fd6c8;
+    --rule: #2b4d56;
+    --panel: #133944;
+    --glow: #1f5f6e;
   }
 }
 
@@ -32,7 +34,10 @@ html { -webkit-text-size-adjust: 100%; }
 
 body {
   margin: 0;
-  background: var(--bg);
+  /* The page brightens towards the top left, behind the headline. */
+  background:
+    radial-gradient(75rem 45rem at 10% -10%, var(--glow) 0%, transparent 70%) no-repeat,
+    var(--bg);
   color: var(--ink);
   font: 400 1.0625rem/1.6 "Schibsted Grotesk", system-ui, sans-serif;
 }
