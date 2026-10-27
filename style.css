@@ -128,6 +128,64 @@ h2 {
 }
 .legal p { margin: 0 0 0.75rem; }
 
+/* Home: the software line ends in a link to the apps page, led by the apps' own icons. */
+.apps-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin-top: 0.4rem;
+  padding: 0.35rem 0;
+  font-weight: 600;
+}
+.apps-icons { display: inline-flex; gap: 0.5rem; }
+.apps-icons img {
+  width: 2.75rem;
+  height: 2.75rem;
+  transition: transform 160ms ease-out;
+}
+.apps-link:hover .apps-icons img { transform: translateY(-2px); }
+
+/* App icons keep Apple's rounded-square shape; a hairline keeps dark icons visible on the dark theme. */
+.apps-icons img, .app-icon { border-radius: 22.5%; box-shadow: 0 0 0 1px var(--rule); }
+
+/* Apps page: one row per app under the same heavy rule as the home page. */
+.lede { color: var(--muted); font-size: 1.2rem; margin: 0.75rem 0 2.5rem; }
+
+.apps { list-style: none; margin: 0; padding: 0; border-top: 2px solid var(--ink); }
+
+.app {
+  display: grid;
+  grid-template-columns: 6rem 1fr;
+  gap: 1.75rem;
+  padding-block: 2.25rem;
+}
+.app + .app { border-top: 1px solid var(--rule); }
+
+.app-icon { width: 6rem; height: 6rem; }
+
+.page .app h2 { margin: 0.1rem 0 0.15rem; font-size: 1.5rem; }
+.app p { margin: 0 0 0.9rem; color: var(--muted); }
+.app .app-sub { color: var(--ink); font-weight: 500; }
+
+.app-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem 1.5rem;
+  margin: 1.25rem 0 0;
+}
+.badge { display: inline-block; line-height: 0; }
+.badge img { height: 2.75rem; width: auto; }
+.app-links a:not(.badge) { padding-block: 0.6rem; }
+
+.note { color: var(--muted); margin-top: 0.5rem; }
+
+.legal a + a { margin-left: 1.25rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  .apps-icons img { transition: none; }
+}
+
 .page h1 { font-size: clamp(2rem, 5vw, 3rem); }
 .page h2 { font-size: 1.2rem; margin-top: 2rem; }
 .page p { max-width: 38em; }
@@ -137,4 +195,6 @@ h2 {
   .work { grid-template-columns: 1fr; }
   .line, .line + .line { padding: 2rem 0; border-left: 0; }
   .line + .line { border-top: 1px solid var(--rule); }
+  .app { grid-template-columns: 4rem 1fr; gap: 1.1rem; }
+  .app-icon { width: 4rem; height: 4rem; }
 }
