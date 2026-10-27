@@ -2,7 +2,7 @@
 
 ## Unreleased
 - New "Our apps" page (`apps.html`) with Trip Spending, HSI Trend and Restaurant Pick: icon, subtitle,
-  short description, Apple's official "Download on the App Store" badge and each app's support page.
+  short description (HSI Trend with its not-investment-advice note), Apple's official "Download on the App Store" badge and each app's support page.
 - Home: the software development section links to it, led by the three app icons, and says the
   Google Play versions are on the way.
 

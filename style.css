@@ -166,6 +166,7 @@ h2 {
 .page .app h2 { margin: 0.1rem 0 0.15rem; font-size: 1.5rem; }
 .app p { margin: 0 0 0.9rem; color: var(--muted); }
 .app .app-sub { color: var(--ink); font-weight: 500; }
+.app .app-fine { font-size: 0.875rem; }
 
 .app-links {
   display: flex;
