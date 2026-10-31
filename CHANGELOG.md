@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.2.0 – 2026-10-31
+- Our apps: Restaurant Pick gets Google's official "Get it on Google Play" badge
+  (`img/google-play-badge.png`, from Google's badge generator with the transparent margin trimmed so it
+  matches the App Store badge's height), linking to its Play Store page. The intro says iPhone and Android, the
+  closing note says Trip Spending and HSI Trend are on their way to Google Play, and the footer adds Google's
+  trademark line.
+- Home: the software section says the apps are published on the App Store and Google Play.
+
 ## v1.1.0 – 2026-10-28
 - New "Our apps" page (`apps.html`) with Trip Spending, HSI Trend and Restaurant Pick: icon, subtitle,
   short description (HSI Trend with its not-investment-advice note), Apple's official "Download on the App Store" badge and each app's support page.
