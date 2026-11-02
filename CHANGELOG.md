@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.3.0 – 2026-11-02
+- Our apps: HSI Trend gets the Google Play badge, linking to its Play Store page. The closing note now
+  says only Trip Spending is on its way to Google Play.
+
 ## v1.2.0 – 2026-10-31
 - Our apps: Restaurant Pick gets Google's official "Get it on Google Play" badge
   (`img/google-play-badge.png`, from Google's badge generator with the transparent margin trimmed so it
