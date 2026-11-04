@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5.2 – 2026-11-04
+- Our apps: removed the closing note about Trip Spending coming to Google Play and Meal Tracker to the
+  App Store.
+
 ## v1.5.1 – 2026-11-04
 - Our apps and the home page's icon row list the apps as Trip Spending, Restaurant Pick, Meal Tracker,
   HSI Trend.
