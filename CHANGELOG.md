@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.5.0 – 2026-11-04
+- New "Places to stay" page (`stays.html`) with the three Llandudno flats: a two-bedroom flat on the ground
+  floor and two one-bedroom flats on the first and second floors, each with its rooms, beds, guests, a short
+  description and a link to book on Airbnb. The footer notes that JSVK isn't affiliated with Airbnb.
+- Home: the serviced accommodation section says the flats are in central Llandudno and links to the new page.
+
 ## v1.4.0 – 2026-11-04
 - Our apps: Meal Tracker added (icon `img/meal-tracker.png`, subtitle, short description, Google Play badge
   linking to its Play Store page, support and privacy page). The closing note says Meal Tracker is on its way

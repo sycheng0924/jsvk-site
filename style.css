@@ -181,6 +181,15 @@ h2 {
 
 .note { color: var(--muted); margin-top: 0.5rem; }
 
+/* Places to stay: the apps page's rows without an icon column. */
+.stay { padding-block: 2.25rem; }
+.stay + .stay { border-top: 1px solid var(--rule); }
+.page .stay h2 { margin: 0 0 0.15rem; font-size: 1.5rem; }
+.stay p { margin: 0 0 0.9rem; color: var(--muted); }
+.stay .app-sub { color: var(--ink); font-weight: 500; }
+.book { font-weight: 600; padding-block: 0.6rem; display: inline-block; }
+.book::after { content: " \2192"; }
+
 .legal a + a { margin-left: 1.25rem; }
 
 @media (prefers-reduced-motion: reduce) {
