@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.4.0 – 2026-11-04
+- Our apps: Meal Tracker added (icon `img/meal-tracker.png`, subtitle, short description, Google Play badge
+  linking to its Play Store page, support and privacy page). The closing note says Meal Tracker is on its way
+  to the App Store. The page description names all four apps.
+- Home: Meal Tracker's icon joins the row above "See our apps".
+
 ## v1.3.0 – 2026-11-02
 - Our apps: HSI Trend gets the Google Play badge, linking to its Play Store page. The closing note now
   says only Trip Spending is on its way to Google Play.
