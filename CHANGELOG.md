@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5.1 – 2026-11-04
+- Our apps and the home page's icon row list the apps as Trip Spending, Restaurant Pick, Meal Tracker,
+  HSI Trend.
+
 ## v1.5.0 – 2026-11-04
 - New "Places to stay" page (`stays.html`) with the three Llandudno flats: a two-bedroom flat on the ground
   floor and two one-bedroom flats on the first and second floors, each with its rooms, beds, guests, a short
