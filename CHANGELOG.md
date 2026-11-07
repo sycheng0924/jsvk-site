@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.5.3 – 2026-11-08
+- Our apps: Meal Tracker gets its App Store badge, linking to its App Store page, next to the Google Play badge.
+
 ## v1.5.2 – 2026-11-04
 - Our apps: removed the closing note about Trip Spending coming to Google Play and Meal Tracker to the
   App Store.
