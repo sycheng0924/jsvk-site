@@ -182,14 +182,15 @@ h2 {
 .note { color: var(--muted); margin-top: 0.5rem; }
 
 /* Places to stay: a wide view of the town between the intro and the flats. */
-/* It stops where the header's Contact link starts (that link is about 3.93rem wide). */
-.view { margin: 0 0 2.5rem; max-width: calc(100% - 3.93rem); }
+/* Full page width, cropped to a low strip so the flats stay close to the top. */
+.view { margin: 0 0 2.5rem; }
 .view img {
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 2000 / 1126;
+  aspect-ratio: 5 / 2;
   object-fit: cover;
+  object-position: 50% 55%;
   border-radius: 6px;
   background: var(--panel);
 }

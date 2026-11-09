@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.6.3 – 2026-11-09
+- Places to stay: the Llandudno photo spans the full page width again, so its right edge lines up with the
+  right edge of the header's Contact link, and is cropped to a lower 5:2 strip (about 30% shorter than
+  the full photo) keeping the bay, the promenade and the town.
+
 ## v1.6.2 – 2026-11-09
 - Places to stay: the Llandudno photo's right edge now lines up with the left edge of the header's Contact
   link, at every screen width.
