@@ -181,6 +181,19 @@ h2 {
 
 .note { color: var(--muted); margin-top: 0.5rem; }
 
+/* Places to stay: a wide view of the town between the intro and the flats. */
+.view { margin: 0 0 2.5rem; }
+.view img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2000 / 1126;
+  object-fit: cover;
+  border-radius: 6px;
+  background: var(--panel);
+}
+.view figcaption { margin-top: 0.6rem; font-size: 0.875rem; color: var(--muted); }
+
 /* Places to stay: the apps page's rows without an icon column. */
 .stay { padding-block: 2.25rem; }
 .stay + .stay { border-top: 1px solid var(--rule); }

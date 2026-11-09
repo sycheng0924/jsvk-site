@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.6.0 – 2026-11-09
+- Places to stay: a wide photo of Llandudno's North Shore from the Great Orme sits between the intro and
+  the flats, with a caption. Served as WebP in two sizes (`img/llandudno-bay-1000.webp`, `-2000.webp`) with
+  all photo metadata (location, camera) removed.
+
 ## v1.5.4 – 2026-11-09
 - Home: the software section no longer says the apps keep people's data on their own device (Trip Spending
   1.4's shared trips sync through Firebase). It now says they are free to use, with no sign-up and no ads.
