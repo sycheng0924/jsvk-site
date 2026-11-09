@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.6.1 – 2026-11-09
+- Places to stay: the Llandudno photo is smaller on larger screens (at most 40rem wide, about the width
+  of the text), so the flats come into view sooner.
+
 ## v1.6.0 – 2026-11-09
 - Places to stay: a wide photo of Llandudno's North Shore from the Great Orme sits between the intro and
   the flats, with a caption. Served as WebP in two sizes (`img/llandudno-bay-1000.webp`, `-2000.webp`) with

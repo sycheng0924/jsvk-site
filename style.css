@@ -182,7 +182,7 @@ h2 {
 .note { color: var(--muted); margin-top: 0.5rem; }
 
 /* Places to stay: a wide view of the town between the intro and the flats. */
-.view { margin: 0 0 2.5rem; }
+.view { margin: 0 0 2.5rem; max-width: 40rem; }
 .view img {
   display: block;
   width: 100%;
