@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.6.7 – 2026-11-09
+- Our apps, Places to stay and Privacy: the same gap between the top bar and the page heading as on the
+  home page.
+
 ## v1.6.6 – 2026-11-09
 - Every page links the stylesheet as `style.css?v=<version>`, so browsers fetch new styles straight away
   instead of keeping a cached copy for up to 10 minutes. Bump the number whenever `style.css` changes.
