@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.7.1 – 2026-11-09
+- New logo: a teal roof over a phone outline, for the two halves of the business, replaces the J S / V K
+  grid in the header of every page (inline SVG, colours follow the light and dark themes).
+- Site icons (`favicon.ico`, `img/icon-192.png`, `apple-touch-icon.png`) redrawn with the new logo on a
+  light tile, so it stays visible on dark browser tab bars.
+
 ## v1.7.0 – 2026-11-09
 - Site icon from the JSVK grid logo: `favicon.ico` (32 and 48 px) for browser tabs and bookmarks,
   `img/icon-192.png` for Google search results and Android, and `apple-touch-icon.png` (180 px, square,
