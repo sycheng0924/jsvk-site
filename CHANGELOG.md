@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.6.8 – 2026-11-09
+- Every page: the name at the top left reads "JSVK" again (reverts that part of v1.6.5).
+
 ## v1.6.7 – 2026-11-09
 - Our apps, Places to stay and Privacy: the same gap between the top bar and the page heading as on the
   home page.
