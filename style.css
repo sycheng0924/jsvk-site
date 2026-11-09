@@ -59,12 +59,20 @@ a:focus-visible { outline: 3px solid var(--sea); outline-offset: 3px; border-rad
 }
 
 .mark {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
   font-weight: 800;
   font-size: 1.5rem;
   letter-spacing: -0.04em;
   color: var(--ink);
   text-decoration: none;
 }
+
+/* The logo tile: J S / V K in an app-icon square, inverted on the dark theme by the colour tokens. */
+.mark-tile { width: 2.4rem; height: 2.4rem; flex: none; letter-spacing: 0; }
+.mark-tile rect { fill: var(--ink); }
+.mark-tile text { fill: var(--bg); font-size: 22px; font-weight: 800; text-anchor: middle; }
 
 .top-link { color: var(--ink); font-weight: 500; padding: 0.6rem 0; }
 

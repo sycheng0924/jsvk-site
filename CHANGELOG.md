@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.6.9 – 2026-11-09
+- Every page: the top-left name now has the new JSVK logo in front of it, a rounded tile with J S / V K
+  stacked two by two (inline SVG; dark tile on the light theme, light tile on the dark theme).
+
 ## v1.6.8 – 2026-11-09
 - Every page: the name at the top left reads "JSVK" again (reverts that part of v1.6.5).
 
