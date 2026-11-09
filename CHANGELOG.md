@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5.4 – 2026-11-09
+- Home: the software section no longer says the apps keep people's data on their own device (Trip Spending
+  1.4's shared trips sync through Firebase). It now says they are free to use, with no sign-up and no ads.
+
 ## v1.5.3 – 2026-11-08
 - Our apps: Meal Tracker gets its App Store badge, linking to its App Store page, next to the Google Play badge.
 
