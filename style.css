@@ -128,11 +128,12 @@ h2 {
 }
 .legal p { margin: 0 0 0.75rem; }
 
-/* Home: the software line ends in a link to the apps page, led by the apps' own icons. */
+/* Home: the software line ends in a link to the apps page: the apps' own icons, with the label below. */
 .apps-link {
   display: inline-flex;
-  align-items: center;
-  gap: 0.9rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.6rem;
   margin-top: 0.4rem;
   padding: 0.35rem 0;
   font-weight: 600;

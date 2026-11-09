@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.6.4 – 2026-11-09
+- Home: "See our apps" now sits under the row of app icons instead of beside it.
+
 ## v1.6.3 – 2026-11-09
 - Places to stay: the Llandudno photo spans the full page width again, so its right edge lines up with the
   right edge of the header's Contact link, and is cropped to a lower 5:2 strip (about 30% shorter than
