@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.6.5 – 2026-11-09
+- Every page: the name at the top left reads "JSVK Limited" instead of "JSVK".
+- Home: less space between the top bar and the headline (at most 4.5rem instead of 8rem).
+
 ## v1.6.4 – 2026-11-09
 - Home: "See our apps" now sits under the row of app icons instead of beside it.
 
