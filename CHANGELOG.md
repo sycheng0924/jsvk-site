@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.6.6 – 2026-11-09
+- Every page links the stylesheet as `style.css?v=<version>`, so browsers fetch new styles straight away
+  instead of keeping a cached copy for up to 10 minutes. Bump the number whenever `style.css` changes.
+
 ## v1.6.5 – 2026-11-09
 - Every page: the name at the top left reads "JSVK Limited" instead of "JSVK".
 - Home: less space between the top bar and the headline (at most 4.5rem instead of 8rem).
