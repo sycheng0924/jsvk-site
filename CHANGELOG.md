@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.6.2 – 2026-11-09
+- Places to stay: the Llandudno photo's right edge now lines up with the left edge of the header's Contact
+  link, at every screen width.
+
 ## v1.6.1 – 2026-11-09
 - Places to stay: the Llandudno photo is smaller on larger screens (at most 40rem wide, about the width
   of the text), so the flats come into view sooner.
