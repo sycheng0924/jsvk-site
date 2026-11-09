@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.7.0 – 2026-11-09
+- Site icon from the JSVK grid logo: `favicon.ico` (32 and 48 px) for browser tabs and bookmarks,
+  `img/icon-192.png` for Google search results and Android, and `apple-touch-icon.png` (180 px, square,
+  iOS rounds it) for iPhone home screens. Every page links them.
+
 ## v1.6.9 – 2026-11-09
 - Every page: the top-left name now has the new JSVK logo in front of it, a rounded tile with J S / V K
   stacked two by two (inline SVG; dark tile on the light theme, light tile on the dark theme).
