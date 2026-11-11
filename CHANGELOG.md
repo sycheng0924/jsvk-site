@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.8.2 – 2026-11-11
+- Home page, Software development: the Stocks: Gain & Loss icon in the row of app icons, before HSI Trend.
+
 ## v1.8.1 – 2026-11-11
 - Our apps: the Stocks: Gain & Loss entry itself (v1.8.0 shipped only its icon, changelog and page
   description).
