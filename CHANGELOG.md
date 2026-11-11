@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.9.0 – 2026-11-11
+- Our apps: added Before You Land (after Trip Spending) with its Google Play badge, now live on Play.
+  The App Store badge follows once Apple approves it. Icon in `img/before-you-land.png`.
+- Home page, Software development: the Before You Land icon in the row of app icons, after Trip
+  Spending.
+
 ## v1.8.2 – 2026-11-11
 - Home page, Software development: the Stocks: Gain & Loss icon in the row of app icons, before HSI Trend.
 
