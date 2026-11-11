@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.8.1 – 2026-11-11
+- Our apps: the Stocks: Gain & Loss entry itself (v1.8.0 shipped only its icon, changelog and page
+  description).
+
 ## v1.8.0 – 2026-11-11
 - Our apps: added Stocks: Gain & Loss (before HSI Trend) with its Google Play badge, now live on Play.
   The App Store badge follows once Apple approves it. Icon in `img/stock-profile.png`.
