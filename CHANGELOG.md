@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.8.0 – 2026-11-11
+- Our apps: added Stocks: Gain & Loss (before HSI Trend) with its Google Play badge, now live on Play.
+  The App Store badge follows once Apple approves it. Icon in `img/stock-profile.png`.
+
 ## v1.7.1 – 2026-11-09
 - New logo: a teal roof over a phone outline, for the two halves of the business, replaces the J S / V K
   grid in the header of every page (inline SVG, colours follow the light and dark themes).
