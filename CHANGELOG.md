@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.9.1 – 2026-11-12
+- Before You Land: new icon (the plane climbs instead of descending).
+
 ## v1.9.0 – 2026-11-11
 - Our apps: added Before You Land (after Trip Spending) with its Google Play badge, now live on Play.
   The App Store badge follows once Apple approves it. Icon in `img/before-you-land.png`.
