@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.9.2 – 2026-11-12
+- Our apps: Trip Spending now has its Google Play badge next to the App Store one.
+
 ## v1.9.1 – 2026-11-12
 - Before You Land: new icon (the plane climbs instead of descending).
 
