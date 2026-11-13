@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.9.3 – 2026-11-13
+- Our apps: Before You Land now has its App Store badge (approved by Apple 2026-11-13), before the
+  Google Play one.
+
 ## v1.9.2 – 2026-11-12
 - Our apps: Trip Spending now has its Google Play badge next to the App Store one.
 
