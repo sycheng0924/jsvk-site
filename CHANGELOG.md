@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.10.0 – 2026-11-15
+- Our apps: added Taiwan Entry Permit Helper (after Before You Land) with its App Store badge, linking
+  to the Hong Kong storefront (the app is only in the Hong Kong and Macao App Stores). Icon in
+  `img/tw-entry-permit.png`.
+- Home page, Software development: its icon in the row of app icons, after Before You Land. On phones up to
+  400 px wide the icons are a little smaller (40 px) so all seven fit one row at 360 px; narrower
+  screens wrap them.
+
 ## v1.9.3 – 2026-11-13
 - Our apps: Before You Land now has its App Store badge (approved by Apple 2026-11-13), before the
   Google Play one.

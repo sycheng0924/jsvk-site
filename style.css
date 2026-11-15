@@ -147,13 +147,18 @@ h2 {
   padding: 0.35rem 0;
   font-weight: 600;
 }
-.apps-icons { display: inline-flex; gap: 0.5rem; }
+.apps-icons { display: inline-flex; flex-wrap: wrap; gap: 0.5rem; }
 .apps-icons img {
   width: 2.75rem;
   height: 2.75rem;
   transition: transform 160ms ease-out;
 }
 .apps-link:hover .apps-icons img { transform: translateY(-2px); }
+/* Seven icons fit one row on a 360 px phone. */
+@media (max-width: 400px) {
+  .apps-icons { gap: 0.375rem; }
+  .apps-icons img { width: 2.5rem; height: 2.5rem; }
+}
 
 /* App icons keep Apple's rounded-square shape; a hairline keeps dark icons visible on the dark theme. */
 .apps-icons img, .app-icon { border-radius: 22.5%; box-shadow: 0 0 0 1px var(--rule); }
