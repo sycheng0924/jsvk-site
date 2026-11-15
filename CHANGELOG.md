@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.10.1 – 2026-11-15
+- Our apps, Taiwan Entry Permit Helper: the subtitle reads "Online entry permits for Hong Kong and
+  Macao residents" (no Chinese characters), and the description ends by saying the app is on the App
+  Store in Hong Kong and Macao and coming soon to Google Play.
+
 ## v1.10.0 – 2026-11-15
 - Our apps: added Taiwan Entry Permit Helper (after Before You Land) with its App Store badge, linking
   to the Hong Kong storefront (the app is only in the Hong Kong and Macao App Stores). Icon in
