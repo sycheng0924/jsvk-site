@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.10.3 – 2026-11-16
+- Our apps: the Stocks: Gain & Loss App Store badge itself (v1.10.2 recorded it in this changelog but
+  the page change was left out of that commit).
+
 ## v1.10.2 – 2026-11-16
 - Our apps: Stocks: Gain & Loss now has its App Store badge (approved by Apple 2026-11-16), before the
   Google Play one.
