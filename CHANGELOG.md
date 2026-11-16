@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.11.0 – 2026-11-16
+- Our apps: added Albumatic at the end, with its Google Play badge (live on Google Play 2026-11-16;
+  Android only). Icon in `img/albumatic.png`.
+- Home page, Software development: Albumatic's icon at the end of the row of app icons. The row is
+  now a grid whose icons (at most 2.75rem) shrink evenly to fit, so all eight stay on one row on a
+  320–360 px phone instead of wrapping.
+
 ## v1.10.3 – 2026-11-16
 - Our apps: the Stocks: Gain & Loss App Store badge itself (v1.10.2 recorded it in this changelog but
   the page change was left out of that commit).
