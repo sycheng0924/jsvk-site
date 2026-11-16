@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.10.2 – 2026-11-16
+- Our apps: Stocks: Gain & Loss now has its App Store badge (approved by Apple 2026-11-16), before the
+  Google Play one.
+
 ## v1.10.1 – 2026-11-15
 - Our apps, Taiwan Entry Permit Helper: the subtitle reads "Online entry permits for Hong Kong and
   Macao residents" (no Chinese characters), and the description ends by saying the app is on the App
