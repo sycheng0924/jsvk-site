@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.12.0 – 2026-11-19
+- Our apps, Albumatic: App Store badge before the Google Play one (iPhone version live on the App
+  Store 2026-11-19). The description now fits both phones: photos taken with the phone's camera
+  (screenshots and images saved from chats are left out), albums made on the phone with no account
+  or server. Dropped "For Android phones" and "no internet access" (on iPhone, photos kept in iCloud
+  are fetched from the user's own iCloud).
+
 ## v1.11.0 – 2026-11-16
 - Our apps: added Albumatic at the end, with its Google Play badge (live on Google Play 2026-11-16;
   Android only). Icon in `img/albumatic.png`.
