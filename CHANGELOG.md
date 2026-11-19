@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.12.1 – 2026-11-19
+- Our apps, Taiwan Entry Permit Helper: Google Play badge added (1.0.2 live on Play 2026-11-19,
+  Hong Kong and Macao); "coming soon to Google Play" replaced.
+
 ## v1.12.0 – 2026-11-19
 - Our apps, Albumatic: App Store badge before the Google Play one (iPhone version live on the App
   Store 2026-11-19). The description now fits both phones: photos taken with the phone's camera
